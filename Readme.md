@@ -1,0 +1,1 @@
+*** Version 1.0: this version is for 2D RANS flow simulation. The ability to generalize to different geometry is enabled by the diffusion model. There is no physics known to constraint that. But for the generalizability to differnet Reynolds nubmer, the conditioned score could lead it satify the residual of loss function to zero.
