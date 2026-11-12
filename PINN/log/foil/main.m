@@ -1,0 +1,1 @@
+ [Xdata, Ydata, Udata, Vdata, Pdata, aoa, creal, cimag, radius] = Read_python_data('./Aoa0.0_cr-0.2_ci0.0_r1.2_pinn.mat');

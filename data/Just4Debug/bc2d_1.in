@@ -1,0 +1,11 @@
+ 2D mesh around Joukowski airfoil centered at (-0.05+0.05j), radius 1.1
+ # Blocks
+          1
+ Block 1
+ Subface
+          4
+  f_no, face, istart, iend, jstart, jend,  neighb, subface orient
+  1  1  1  1   1  128   -30  0   0
+  2  2  1  96  1  1   1   4    2
+  3  3  96  96  1  128 -201  0   0
+  4  4  1  96  128  128  1  2   2
